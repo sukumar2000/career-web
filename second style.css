@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding:0;
+}
+
+
+
+#banner{
+    height:70%;
+    width:100%;
+    object-fit: cover;
+   }
+   #logo{
+    padding:15px;
+   }
+   #des{
+width:50%;
+padding:10px;
+
+   }
+#about{
+    display:flex;
+    max-width: 1000px;
+    margin:0 auto;
+}
+#des{
+    width:50%;
+}
+#lab{
+    width:50%;
+    object-fit: cover;
+}
+h2{
+    text-align: center;
+    color:royalblue;
+}
+.location{
+    color: gray;
+    margin-bottom: 16px;
+}
+#jobs{
+    max-width: 800px;
+    margin:0 auto;
+    padding: 0 8px;
+}
+.job-role{
+    margin-bottom: 4px;
+    margin-top: 0;
+}
+.apply{
+    float:right;
+    color:blue;
+}
+a{
+    text-decoration: none;
+}
+#footer{
+    background-color: rgb(212, 212, 212);
+    padding: 8px;
+    margin-top: 32px;
+    text-align: center;
+}
+#footer-links{
+    list-style: none;
+   
+}
+#footer-links li{
+    display:inline;
+    margin:0 16px;
+}
